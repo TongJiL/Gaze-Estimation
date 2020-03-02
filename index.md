@@ -1,8 +1,8 @@
-## Drives' Gaze Estimation
+## Tongji Luo
 
-You can use the [editor on GitHub](https://github.com/TongJiL/research.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Master Student @ ECE Department, UC-San Diego
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm a Master student at the [Electrical and Computer Engineering (ECE) department, University of California-San Diego](http://www.ece.ucsd.edu). I am supervised by [Prof. Truong Q. Nguyen](http://jacobsschool.ucsd.edu/faculty/faculty_bios/index.sfe?fmp_recid=48) at the [Video Processing Lab](http://videoprocessing.ucsd.edu). I received my B.S. Degree from the Department of Mechanical Engineering, [Northwestern Polytechnical University](https://www.nwpu.edu.cn/). My Research interests are computer vision and machine learning.
 
 ### Markdown
 
