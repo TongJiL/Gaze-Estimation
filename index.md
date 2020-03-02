@@ -1,6 +1,6 @@
 ## Tongji Luo
 
-Master Student @ ECE Department, UC-San Diego
+***Master Student @ ECE Department, UC-San Diego***
 
 I'm a Master student at the [Electrical and Computer Engineering (ECE) department, University of California-San Diego](http://www.ece.ucsd.edu). I am supervised by [Prof. Truong Q. Nguyen](http://jacobsschool.ucsd.edu/faculty/faculty_bios/index.sfe?fmp_recid=48) at the [Video Processing Lab](http://videoprocessing.ucsd.edu). I received my B.S. Degree from the Department of Mechanical Engineering, [Northwestern Polytechnical University](https://www.nwpu.edu.cn/). My Research interests are computer vision and machine learning.
 
