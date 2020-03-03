@@ -28,8 +28,8 @@ in the real situation.
 ### Experiment setting
 
 <center class="half">
-    <img src="https://i.loli.net/2020/03/03/8djZvMbNBKJfwe7.png" width="300"/>
-    <img src="https://i.loli.net/2020/03/03/9JldBh6W4puMCHs.jpg" width="300"/>
+ <img src="https://i.loli.net/2020/03/03/8djZvMbNBKJfwe7.png" width="300"/>
+ <img src="https://i.loli.net/2020/03/03/9JldBh6W4puMCHs.jpg" width="300"/>
 </center>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
