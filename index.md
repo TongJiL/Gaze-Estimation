@@ -12,9 +12,12 @@ I'm a Master student at the [Electrical and Computer Engineering (ECE) departmen
 
 ## Drives' Gaze Estimaion
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
+Driving safety is an increasingly important issue studied by many researchers. According to the Critical Reasons for Crashes Survey by the National Highway Traffic Safety Administration (NHTSA), almost 94% of crashes are due to Driver-Related Critical Reasons, such as errors related to recognition, decision and performance, distraction, fatigue, etc.
+
+Existing works focusing on the gaze estimation put the human face in front of the screen and develop the deep learning algorithm for gaze vector estimation accordingly. The main drawback of these existing works is that collected datasets capture only the participants at the center of the image which is not as in the real driving scenario. Our dataset would stimulate the real driving conditions and fix the camera at the same location as the rear-view mirror. Therefore, the human face will only take a small portion of the whole image. This project would give a processing frame of the gaze estimation in the real situation. 
+
+
 Syntax highlighted code block
 
 # Header 1
