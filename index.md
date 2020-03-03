@@ -12,28 +12,24 @@ I'm a Master student at the [Electrical and Computer Engineering (ECE) departmen
 
 ## Drives' Gaze Estimaion
 
-```markdown
-Driving safety is an increasingly important issue studied by many researchers. According to the Critical Reasons for Crashes Survey by the National Highway Traffic Safety Administration (NHTSA), almost 94% of crashes are due to Driver-Related Critical Reasons, such as errors related to recognition, decision and performance, distraction, fatigue, etc.
+Driving safety is an increasingly important issue studied by many researchers. According to the 
+Critical Reasons for Crashes Survey by the National Highway Traffic Safety Administration (NHTSA), 
+almost 94% of crashes are due to Driver-Related Critical Reasons, such as errors related to 
+recognition, decision and performance, distraction, fatigue, etc.
 
-Existing works focusing on the gaze estimation put the human face in front of the screen and develop the deep learning algorithm for gaze vector estimation accordingly. The main drawback of these existing works is that collected datasets capture only the participants at the center of the image which is not as in the real driving scenario. Our dataset would stimulate the real driving conditions and fix the camera at the same location as the rear-view mirror. Therefore, the human face will only take a small portion of the whole image. This project would give a processing frame of the gaze estimation in the real situation. 
+Existing works focusing on the gaze estimation put the human face in front of the screen and develop 
+the deep learning algorithm for gaze vector estimation accordingly. The main drawback of these 
+existing works is that collected datasets capture only the participants at the center of the image 
+which is not as in the real driving scenario. Our dataset would stimulate the real driving conditions 
+and fix the camera at the same location as the rear-view mirror. Therefore, the human face will only 
+take a small portion of the whole image. This project would give a processing frame of the gaze estimation 
+in the real situation. 
 
+### Experiment setting
 
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+<center class="half">
+    <img src="https://i.loli.net/2020/03/03/8djZvMbNBKJfwe7.png" width="300"/><img src="https://i.loli.net/2020/03/03/9JldBh6W4puMCHs.jpg" width="300"/>
+</center>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
