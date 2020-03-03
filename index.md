@@ -27,15 +27,11 @@ in the real situation.
 
 ### Experiment setting
 
-<figure class="half">
- <img src="https://i.loli.net/2020/03/03/8djZvMbNBKJfwe7.png" width="300"/><img src="https://i.loli.net/2020/03/03/9JldBh6W4puMCHs.jpg" width="300"/>
-</figure>
+<img src="https://i.loli.net/2020/03/03/8djZvMbNBKJfwe7.png" height="200"/>                      <img src="https://i.loli.net/2020/03/03/9JldBh6W4puMCHs.jpg" height="200"/> <img src="https://i.loli.net/2020/03/03/yahDnk6OJY2sgRe.png" height="200"/>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Sample Data with head pose estimation
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TongJiL/research.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<img src="https://i.loli.net/2020/03/03/Ga31iQuxXqljKvO.png" height="200"/><img src="https://i.loli.net/2020/03/03/NbDQaKuLAY1r93P.png" height="210"/> 
 
 ### Support or Contact
 
