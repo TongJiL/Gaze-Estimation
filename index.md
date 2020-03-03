@@ -31,8 +31,7 @@ in the real situation.
 
 ### Sample Data with head pose estimation
 
-<img src="https://i.loli.net/2020/03/03/Ga31iQuxXqljKvO.png" height="200"/><img src="https://i.loli.net/2020/03/03/NbDQaKuLAY1r93P.png" height="210"/> 
+<img src="https://i.loli.net/2020/03/03/Ga31iQuxXqljKvO.png" height="200"/><img src="https://i.loli.net/2020/03/03/NbDQaKuLAY1r93P.png" height="200"/> 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+Email: ltongji@ucsd.edu
